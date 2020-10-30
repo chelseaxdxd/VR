@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{5920B230-D1D6-B0B7-B38D-1D381E3814DD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AudioSyncer.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AudioSpectrum.cs" Line="17" Column="54" />
+      <File FileName="Assets/Scripts/AudioSyncer.cs" Line="35" Column="33" />
+      <File FileName="Assets/Scripts/AudioSyncScale.cs" Line="15" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
